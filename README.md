@@ -6,10 +6,10 @@ You should at least provide the following elements:
 
 - Motivation
 - Research Questions
-- Search query based on a meta-search engine, such as (Scopus)[scholar.miage.dev]
+- Search query based on a meta-search engine, such as [Scopus](https://scholar.miage.dev)
 - Inclusion/Exclusion criteria
 - Review protocol
 
-Results should be sent as a pull request on this repository and should not exceed 3 pages in the (IEEE conference format)[https://www.ieee.org/conferences/publishing/templates.html], including references. You can use [this repo](https://github.com/nherbaut/pandoc-ieee-springer-conference-template) to write in markdown instead of latex.
+Results should be sent as a pull request on this repository and should not exceed 3 pages in the [IEEE conference format](https://www.ieee.org/conferences/publishing/templates.html), including references. You can use [this repo](https://github.com/nherbaut/pandoc-ieee-springer-conference-template) to write in markdown instead of latex.
 
 You must not use any generative AI tools to produce the content.

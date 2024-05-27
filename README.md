@@ -10,4 +10,6 @@ You should at least provide the following elements:
 - Inclusion/Exclusion criteria
 - Review protocol
 
-Results should be sent as a pull request on this repository and should not exceed 3 pages in the (IEEE conference format)[https://www.ieee.org/conferences/publishing/templates.html], including references.
+Results should be sent as a pull request on this repository and should not exceed 3 pages in the (IEEE conference format)[https://www.ieee.org/conferences/publishing/templates.html], including references. You can use [this repo](https://github.com/nherbaut/pandoc-ieee-springer-conference-template) to write in markdown instead of latex.
+
+You must not use any generative AI tools to produce the content.
